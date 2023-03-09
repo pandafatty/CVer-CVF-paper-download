@@ -3,33 +3,26 @@
 # CVer的福音-自动检索下载论文
 
 使用python脚本，自动检索CVF中的会议列表，可以根据自己感兴趣的关键词进行搜索。
-https://www.notion.so/ab6e3ea2294c4a14bcef6fc087f20bb5?pvs=4#dec21eab9537413485d7fc85b44decd1
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/426ae5a6-03a8-45b8-a69e-1b6b324a2450/Untitled.png)
+
+![image](https://user-images.githubusercontent.com/44428153/223944364-ce9f375b-4bc5-4528-a355-0359aa7dd5ac.png)
 
 ## WACV2023 [https://openaccess.thecvf.com/WACV2023](https://openaccess.thecvf.com/WACV2023)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/268dba0c-eff4-4b4d-8f02-93eb840e4d5b/Untitled.png)
+![image](https://user-images.githubusercontent.com/44428153/223944567-9e8a138e-27ca-41d3-8286-1256a726c266.png)
 
 ## CVPR2022 [https://openaccess.thecvf.com/CVPR2022?day=all](https://openaccess.thecvf.com/CVPR2022?day=all)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/665d2311-cbc5-4a09-9e39-685ba5c25269/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a6c3442d-739a-4499-b0a2-b7c5a4affa33/Untitled.png)
+![image](https://user-images.githubusercontent.com/44428153/223944721-1b4bf556-a44c-40eb-975c-a4af6fccfce0.png)
 
 将上面的会议的网页链接保存到code的列表中，并且可以填入自己感兴趣的关键词。
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9daf23f0-09e8-4a05-9dab-5def29e0238a/Untitled.png)
+![image](https://user-images.githubusercontent.com/44428153/223944776-38ec1335-c0cd-4d5f-b6a7-1d91c4200fe0.png)
 
 下载pdf的目录和excel保存的目录按照自己的需求更改
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/28d13399-cff5-430f-859a-35ef1bcf07e7/Untitled.png)
+![image](https://user-images.githubusercontent.com/44428153/223944874-f633f930-04cd-4f2b-9439-4658635d34d0.png)
 
 ## 设置完成后，直接输入python paper_search.py即可运行
+![image](https://user-images.githubusercontent.com/44428153/223944950-0dc6d4ec-3429-40c2-b10a-249f183aa7f2.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/64dc42c5-1130-4d17-af23-f2334b9679a5/Untitled.png)
+### 可下载pdf文件
+![image](https://user-images.githubusercontent.com/44428153/223945286-724ca095-4453-4d97-9944-0d6099511d68.png)
 
-可下载pdf文件
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9981c002-4ff0-4dec-b266-2eb337112832/Untitled.png)
-
-可生成相关信息的Excel表格
+### 可生成相关信息的Excel表格
+![image](https://user-images.githubusercontent.com/44428153/223945155-ed554160-94a0-47fb-abfa-3439da2f1375.png)
