@@ -3,7 +3,7 @@
 # CVer的福音-自动检索下载论文
 
 使用python脚本，自动检索CVF中的会议列表，可以根据自己感兴趣的关键词进行搜索。
-
+https://www.notion.so/ab6e3ea2294c4a14bcef6fc087f20bb5?pvs=4#dec21eab9537413485d7fc85b44decd1
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/426ae5a6-03a8-45b8-a69e-1b6b324a2450/Untitled.png)
 
 ## WACV2023 [https://openaccess.thecvf.com/WACV2023](https://openaccess.thecvf.com/WACV2023)
